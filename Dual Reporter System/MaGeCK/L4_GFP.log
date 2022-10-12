@@ -1,0 +1,74 @@
+INFO  @ Sat, 10 Jul 2021 21:55:18: Parameters: /Users/davidchen/anaconda3/bin/mageck mle -k L4.txt -d L4_GFP_design_matrix.txt -n L4_GFP 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Cannot parse design matrix as a string; try to parse it as a file name ... 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Design matrix: 
+INFO  @ Sat, 10 Jul 2021 21:55:19: [[1. 0. 0. 0.] 
+INFO  @ Sat, 10 Jul 2021 21:55:19:  [1. 1. 0. 0.] 
+INFO  @ Sat, 10 Jul 2021 21:55:19:  [1. 0. 1. 0.] 
+INFO  @ Sat, 10 Jul 2021 21:55:19:  [1. 0. 0. 1.]] 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Beta labels:baseline,L4_F2,L4_F3,L4_F4 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Included samples:L4_F1,L4_F2,L4_F3,L4_F4 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Loaded samples:L4_F1;L4_F2;L4_F3;L4_F4 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Sample index: 0;1;2;3 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Loaded 97 genes. 
+DEBUG @ Sat, 10 Jul 2021 21:55:19: Initial (total) size factor: 1.0585895303813866 1.0306228688792756 0.9545813803756623 0.9638738721548675 
+DEBUG @ Sat, 10 Jul 2021 21:55:19: Median factor: 1.5891895542965961 1.5411715624709625 1.4136181910474823 1.4203108515332277 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Final size factor: 1.5891895542965961 1.5411715624709625 1.4136181910474823 1.4203108515332277 
+INFO  @ Sat, 10 Jul 2021 21:55:19: size factor: 0.6292515561132151,0.6488570282186485,0.7074045922251511,0.7040712242115862 
+INFO  @ Sat, 10 Jul 2021 21:55:19: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:20: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:20: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:20: Modeling the mean and variance ... 
+INFO  @ Sat, 10 Jul 2021 21:55:20: Run the algorithm for the second time ... 
+INFO  @ Sat, 10 Jul 2021 21:55:20: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:21: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:21: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:22: Permuting groups of gene with 1 sgRNAs per gene. Group progress: 1/4 
+INFO  @ Sat, 10 Jul 2021 21:55:22: Start permuting 2 rounds ... 
+INFO  @ Sat, 10 Jul 2021 21:55:22: Collecting 542 sgRNAs from 97 genes. 
+INFO  @ Sat, 10 Jul 2021 21:55:22: Permuting round 0 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:23: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:23: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:23: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:23: Permuting round 1 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:24: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Assigning p values... 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Permuting groups of gene with 4 sgRNAs per gene. Group progress: 2/4 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Start permuting 2 rounds ... 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Collecting 542 sgRNAs from 97 genes. 
+INFO  @ Sat, 10 Jul 2021 21:55:24: Permuting round 0 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:25: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:26: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:26: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:26: Permuting round 1 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:27: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Assigning p values... 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Permuting groups of gene with 6 sgRNAs per gene. Group progress: 3/4 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Start permuting 2 rounds ... 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Collecting 542 sgRNAs from 97 genes. 
+INFO  @ Sat, 10 Jul 2021 21:55:27: Permuting round 0 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:28: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:28: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:28: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:29: Permuting round 1 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:30: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Assigning p values... 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Permuting groups of gene with 10 sgRNAs per gene. Group progress: 4/4 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Start permuting 2 rounds ... 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Collecting 542 sgRNAs from 97 genes. 
+INFO  @ Sat, 10 Jul 2021 21:55:30: Permuting round 0 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:31: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:31: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:31: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:31: Permuting round 1 ... 
+INFO  @ Sat, 10 Jul 2021 21:55:32: Thread 0 started. 
+INFO  @ Sat, 10 Jul 2021 21:55:33: Thread 0 completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:33: All threads completed. 
+INFO  @ Sat, 10 Jul 2021 21:55:33: Assigning p values... 
+INFO  @ Sat, 10 Jul 2021 21:55:33: Writing gene results to L4_GFP.gene_summary.txt 
+INFO  @ Sat, 10 Jul 2021 21:55:33: Writing sgRNA results to L4_GFP.sgrna_summary.txt 
