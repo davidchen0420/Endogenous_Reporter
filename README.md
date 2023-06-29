@@ -17,19 +17,20 @@ Python v.3.9.1
 * SciPy v.1.7.0
 
 ## Running the code
-The Epigenetic_Screen.ipynb in the Reporter System directory provides a walkthrough of the differential guide abundance analyses conducted from the raw read counts and the reproducible statistics and figures directly generated to support the study.
+The Epigenetic_Screen.ipynb notebook in the Reporter System directory provides a walkthrough of the differential guide abundance analyses conducted from the raw read counts (read_counts.csv) and the reproducible statistics (Reporter System/MaGeCK) and figures directly generated to support the study.
 
 ## Repository Structure
 <pre>
 ├── README.md
 ├── gRNA_motifs.tsv
 ├── primers.tsv
+├── read_counts.csv
 ├── Reporter System                                     
 │   └── MaGeCK                       // Directory of MaGeCK-generated results. (L3 + L6: Dual Reporter, L1 + L4: Single GFP Reporter, L2 + L5: Single mKate2 Reporter)
 │   └── Epigenetic_Screen.ipynb      // Custom Python code for analyses of CRISPR genetic screen.
-├── Validation                                    
+├── System Validation                                    
 │   └── MaGeCK                       // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
-│   └── MaGeCK_stats                       // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
+│   └── MaGeCK_stats                 // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
 </pre>
 
 ## Contributing
