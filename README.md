@@ -4,7 +4,7 @@
 Repository for the custom code (with parameters), MaGeCK commands (with parameters) and MaGeCK-generated statistics, as well as the raw read counts generated as part of the CRISPR genetic knockout screens using the single and dual endogenous reporter systems to reproduce the results.
 
 ## Software Requirements 
-The software requirements for the statistical analyses associated with this study are:
+The standard software requirements for the statistical analyses associated with this study are:
 * MaGeCK v.0.5.9.5
 * Python v.3.9.1
 * R v.4.3.1
@@ -15,6 +15,9 @@ R v.4.3.1
 
 Python v.3.9.1
 * SciPy v.1.7.0
+
+## Running the code
+The Epigenetic_Screen.ipynb in the Reporter System directory provides a walkthrough of the differential guide abundance analyses conducted from the raw read counts and the reproducible statistics and figures directly generated to support the study.
 
 ## Repository Structure
 <pre>
