@@ -33,8 +33,6 @@ Python v.3.9.1
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## Citing SomaticSiMu
-[David Chen, Gurjit S Randhawa, Maximillian P M Soltysiak, Camila P E de Souza, Lila Kari, Shiva M Singh, Kathleen A Hill, SomaticSiMu: a mutational signature simulator, Bioinformatics, Volume 38, Issue 9, March 2022, Pages 2619–2620](https://doi.org/10.1093/bioinformatics/btac128)
-
 [Sandor Spisak, David Chen, Pornlada Likasitwatanakul, Paul Doan, Zhixin Li, Laura Vizkeleti, Viktoria Tisza, Pushpamail De Silva, Marios Giannakis, Brian Wolpin, Jun Qi, Nilay S. Sethi. Utilizing a dual endogenous reporter system to identify functional regulators of aberrant stem cell and differentiation activity in colorectal cancer, bioRxiv. ([https://doi.org/10.1093/bioinformatics/btac128](https://doi.org/10.1101/2023.06.21.545895)https://doi.org/10.1101/2023.06.21.545895)
 
 
