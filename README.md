@@ -36,7 +36,7 @@ The Epigenetic_Screen.ipynb notebook in the Reporter System directory provides a
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-## Citing SomaticSiMu
+## Citation
 [Sandor Spisak*, David Chen*, Pornlada Likasitwatanakul*, Paul Doan*, Zhixin Li, Laura Vizkeleti, Viktoria Tisza, Pushpamail De Silva, Marios Giannakis, Brian Wolpin, Jun Qi, Nilay S. Sethi. Utilizing a dual endogenous reporter system to identify functional regulators of aberrant stem cell and differentiation activity in colorectal cancer, bioRxiv.](https://doi.org/10.1101/2023.06.21.545895)
 
 
