@@ -25,12 +25,13 @@ The Epigenetic_Screen.ipynb notebook in the Reporter System directory provides a
 ├── gRNA_motifs.tsv
 ├── primers.tsv
 ├── read_counts.csv
+├── Reporter_Cell_Line_Read_Counts.xlsx // RNA-sequencing read counts of GFP+ and mKate2+ fractions of the HT29 Dual Reporter cell line. 
 ├── Reporter System                                     
-│   └── MaGeCK                       // Directory of MaGeCK-generated results. (L3 + L6: Dual Reporter, L1 + L4: Single GFP Reporter, L2 + L5: Single mKate2 Reporter)
-│   └── Epigenetic_Screen.ipynb      // Custom Python code for analyses of CRISPR genetic screen.
+│   └── MaGeCK                          // Directory of MaGeCK-generated results. (L3 + L6: HT29 Dual Reporter, L1 + L4: Single HT29 GFP Reporter, L2 + L5: Single HT29 mKate2 Reporter)
+│   └── Epigenetic_Screen.ipynb         // Custom Python code for analyses of CRISPR genetic screen.
 ├── System Validation                                    
-│   └── MaGeCK                       // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
-│   └── MaGeCK_stats                 // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
+│   └── MaGeCK                          // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
+│   └── MaGeCK_stats                    // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
 </pre>
 
 ## Contributing
