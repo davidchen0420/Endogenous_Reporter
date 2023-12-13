@@ -30,8 +30,8 @@ The Epigenetic_Screen.ipynb notebook in the Reporter System directory provides a
 │   └── MaGeCK                          // Directory of MaGeCK-generated results. (L3 + L6: HT29 Dual Reporter, L1 + L4: Single HT29 GFP Reporter, L2 + L5: Single HT29 mKate2 Reporter)
 │   └── Epigenetic_Screen.ipynb         // Custom Python code for analyses of CRISPR genetic screen.
 ├── System Validation                                    
-│   └── MaGeCK                          // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
-│   └── MaGeCK_stats                    // Directory of MaGeCK-generated results for early validation of the endogenous reporter system.
+│   └── MaGeCK                          // Directory of MaGeCK-generated results for early validation of the endogenous reporter system using MaGeCK MLE.
+│   └── MaGeCK_stats                    // Directory of MaGeCK-generated results for early validation of the endogenous reporter system using MaGeCK RRA.
 </pre>
 
 ## Contributing
